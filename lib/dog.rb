@@ -7,10 +7,3 @@ class Dog
     this_dogs_name
   end
 end
-
-def lassie 
-  lassie = Dog.new 
-  lassie.name = "Lassie"
-end 
-
-lassie.name
